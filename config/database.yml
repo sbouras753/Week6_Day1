@@ -1,0 +1,25 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: eventBrite
+  pool: 5
+  username: postgres
+  password:
+test:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: eventBrite
+  pool: 5
+  username: postgres
+  password:
+production:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: eventBrite
+  pool: 5
+  username: postgres
+  password:
+
