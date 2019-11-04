@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c16d1f11-eb9e-47be-a294-adcaaac03588" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/user_mailer/welcome_email.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/user_mailer/welcome_email.text.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +215,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572870355857</updated>
-      <workItem from="1572870357041" duration="10414000" />
+      <workItem from="1572870357041" duration="11135000" />
     </task>
     <servers />
   </component>
